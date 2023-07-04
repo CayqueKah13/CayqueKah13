@@ -1,4 +1,4 @@
- ## Bem-vindo(a) ao meu perfil! 😁 Aqui você encontrará informações sobre minha trajetória e projetos na área de programação. Conecte-se comigo para trocar ideias e se manter atualizado(a) sobre as novidades! 👋🏼😊
+ ## Bem-vindo(a) ao meu perfil! 😁
 
  <div>
    <a href="https://github.com/CayqueKah13">
