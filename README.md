@@ -1,8 +1,8 @@
- ## Olá, Eu sou o Cayque! 👋🏼😊 Seja bem-vindo(a) ao meu perfil! 😁
+ ## Olá, eu sou o Cayque! 👋🏼😊 Seja bem-vindo(a) ao meu perfil! 😁
 
  <div>
    <a href="https://github.com/CayqueKah13">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CayqueKah13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="github-readme-stats-beige-zeta-28.vercel.app/api?username=CayqueKah13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CayqueKah13&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
