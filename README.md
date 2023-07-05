@@ -1,4 +1,4 @@
- ## Bem-vindo(a) ao meu perfil! 😁
+ ## Olá, Eu sou o Cayque! 👋🏼😊 Seja bem-vindo(a) ao meu perfil! 😁
 
  <div>
    <a href="https://github.com/CayqueKah13">
