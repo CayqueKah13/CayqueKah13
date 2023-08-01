@@ -1,4 +1,4 @@
- ## Olá, eu sou o Cayque! 👋🏼😊 Seja bem-vindo(a) ao meu perfil! 😁
+ ## Hello, I am Cayque! 👋🏼😊 Welcome to my profile! 😁
 
  <div>
    <a href="https://github.com/CayqueKah13">
@@ -19,7 +19,7 @@
  
  <br>
  
-  ### Para conhecer mais sobre mim você pode me seguir nas redes sociais abaixo!
+  ### To know more about me, you can follow me on the social media platforms below!
  
 <div> 
   <a href="https://www.linkedin.com/in/cayque-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
