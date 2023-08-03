@@ -17,3 +17,10 @@ I love working on the frontend because it allows me to combine my creativity wit
  
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cayque.motiva/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cayque-martins/) [![Gmail](https://img.shields.io/badge/-Gmail-%23333?logo=gmail&logoColor=white)](mailto:hi@cayque.online) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@cayquekah13)
+
+# 📊 GitHub Stats:
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=CayqueKah13&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CayqueKah13&theme=neon&hide_border=false"  width="400px" />
+
+
+
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=CayqueKah13&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
