@@ -1,4 +1,4 @@
-# 👋 Hi there
+#  👋🏾 Hi there
 
 I'm Cayque Martins, a passionate software developer and tech enthusiast. I currently work as a Full Stack Developer at Lorien Design. </br>
 With over 10 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
